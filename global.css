@@ -1,0 +1,64 @@
+* {
+justify-content: center;
+}
+
+@font-face {
+font-family: 'monospace';
+src: url('./fonts/monospace-821-bold-bt.ttf');
+}
+
+/*Head*/
+.head {
+position: relative;
+}
+#banner {
+position: absolute;
+width: 104%;
+height: 90px;
+top: -8px;
+left: -8px;
+filter: brightness(60%);
+}
+
+#title-banner {
+position: absolute;
+top: 29px;
+left: 0px;
+font-size: 30px;
+/*color: #0090FF;*/
+-webkit-text-stroke-width: 0.75px;
+-webkit-text-stroke-color: #0090FF;
+font-family: monospace;
+}
+
+#text {
+color: #FFFFFF;
+margin-top: 8px;
+font-size: 12px;
+font-family: monospace;
+}
+
+#video {
+width: 290px;
+height: 163px;
+}
+
+#link {
+color: #80A4C8;
+font-size: 12px;
+}
+
+#alert {
+text-align: center;
+color: #FFFF00;
+margin-top: 4px;
+margin-bottom: 5px;
+font-size: 18px;
+font-family: monospace;
+}
+
+/*Media*/
+.media {
+
+}
+
