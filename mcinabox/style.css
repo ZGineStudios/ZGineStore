@@ -6,7 +6,7 @@ position: relative;
 /*Drawer*/
 .drawer {
 width: 24.4%;
-height: 599px; /*599px*/
+height: 649px; /*599px*/
 float: left;
 padding: 6px;
 border: 1px solid #000000;
@@ -18,7 +18,7 @@ background-color: #000000;
 /*Page*/
 .page {
 width: 71.8%;
-height: 594px; /*594px*/
+height: 644px; /*594px*/
 float: right;
 padding: 6px;
 border: 3px solid #FF0000;
