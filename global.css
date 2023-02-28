@@ -44,6 +44,10 @@ height: 163px;
 color: #80A4C8;
 font-size: 12px;
 }
+#link-drawer {
+color: #80A4C8;
+font-size: 11.5px;
+}
 #alert {
 text-align: center;
 color: #FFFF00;
